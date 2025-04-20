@@ -16,13 +16,13 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
-I obtained my B.S. degree in Electronic Information Science and Technology from Jiangsu University of Science and Technology, Zhenjiang, China, in 2021. Currently, I am pursuing a Ph.D. in Electronic and Communication Engineering at Nanjing University of Aeronautics and Astronautics, Nanjing, China. Additionally, I serve as a visiting scholar at the Singapore University of Technology and Design (SUTD), where I am under the guidance of Prof. Tony Q.S. Quek.
+# Welcome!
+I obtained my B.S. degree in Electronic Information Science and Technology from Jiangsu University of Science and Technology, Zhenjiang, China, in 2021. Currently, I am pursuing a Ph.D. in Electronic and Communication Engineering at Nanjing University of Aeronautics and Astronautics, Nanjing, China. Additionally, I serve as a visiting scholar at the Singapore University of Technology and Design (SUTD), where I am under the guidance of Prof. Tony Q.S. Quek. My research interests include statistical signal processing, source localization and intelligent reflecting surface.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.02*: &nbsp;🎉🎉 TWC Major Revison: Direct Localization of High-Order QAM Signals With Multiple Anchors: Dual Atomic Norm Minimization. 
+- *2025.04*: &nbsp;🎉🎉 WCL Minor Revison:Semi-Passive IRS-Aided DOA Estimation: Weighted ESPRIT Approach. 
 
 # 📝 Publications 
 
@@ -39,6 +39,7 @@ I obtained my B.S. degree in Electronic Information Science and Technology from 
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [**X. Shi**, X. Zhang, Y. Sun and Y. Qian, "Direct Position Determination of Non-Circular Signals for Distributed Antenna Arrays: Optimal Weight and Polynomial Rooting Approach," in **IEEE Signal Processing Letters**, vol. 31, pp. 256-260, 2024.](https://ieeexplore.ieee.org/abstract/document/10349909)
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
