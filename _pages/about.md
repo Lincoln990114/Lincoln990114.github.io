@@ -21,8 +21,8 @@ I obtained my B.S. degree in Electronic Information Science and Technology from 
 
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 TWC Major Revison: Direct Localization of High-Order QAM Signals With Multiple Anchors: Dual Atomic Norm Minimization. 
-- *2025.04*: &nbsp;🎉🎉 WCL Minor Revison:Semi-Passive IRS-Aided DOA Estimation: Weighted ESPRIT Approach. 
+- *2025*: &nbsp;🎉🎉 Serving as the reviewer of EUSIPCO 2025. 
+- *2024.07*: &nbsp;🎉🎉 Attending IEEE International Symposium on Computer Technology and Information Science (ISCTIS), Xi’an, China. 
 
 # 📝 Publications 
 - **X. Shi**, X. Zhang, Y. Sun and Y. Qian, ["Direct Position Determination of Non-Circular Signals for Distributed Antenna Arrays: Optimal Weight and Polynomial Rooting Approach,"](https://ieeexplore.ieee.org/abstract/document/10349909) **IEEE Signal Processing Letters**, vol. 31, pp. 256-260, 2024.
@@ -45,6 +45,6 @@ I obtained my B.S. degree in Electronic Information Science and Technology from 
 - Reviewer of IEEE Journal of Selected Topics in Signal Processing.
 - Reviewer of EUSIPCO 2025. 
 
-# 💻 Skills & Hobbies
+# 💻 Skills and Hobbies
 - Language: Native Chinese, Fluent English (IELTS-Academic 6.5)
 - MATLAB, LabVIEW, Keil (STM 32), Quartus (FPGA), Altium Designer (PCB)
