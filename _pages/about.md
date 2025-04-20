@@ -34,8 +34,8 @@ I obtained my B.S. degree in Electronic Information Science and Technology from 
 - *2024.09 - 2025.09* China Scholarship Council program. 
 
 # 📖 Educations
-- *2021.09 - 2025.12*, Ph.D. in Electronic and Communication Engineering at Nanjing University of Aeronautics and Astronautics(NUAA), Nanjing, China.(Mentor: Xiaofei Zhang)
-- *2024.09 - 2025.09*, visiting scholar in Information Systems Technology and Design Pillar(ISTD), Singapore University of Technology and Design(SUTD), Singapore.(Mentor: Tony Q.S. Quek)
+- *2021.09 - 2025.12*, Ph.D. in Electronic and Communication Engineering at Nanjing University of Aeronautics and Astronautics(NUAA), Nanjing, China.(Mentor: [Xiaofei Zhang](http://cog.nuaa.edu.cn/2017/0224/c989a25157/page.htm))
+- *2024.09 - 2025.09*, visiting scholar in Information Systems Technology and Design Pillar(ISTD), Singapore University of Technology and Design(SUTD), Singapore.(Mentor: [Tony Q.S. Quek](https://people.sutd.edu.sg/~tonyquek/))
 - *2017.09 - 2021.06*, B.S. in Electronic Information Science and Technology from Jiangsu University of Science and Technology(JUST), Zhenjiang, China.
 - *2014.09 - 2017.06*, Tianyi High School, Jiangsu, China. 
 
