@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # Welcome!
-I obtained my B.S. degree in Electronic Information Science and Technology from Jiangsu University of Science and Technology, Zhenjiang, China, in 2021. Currently, I am pursuing a Ph.D. in Electronic and Communication Engineering at Nanjing University of Aeronautics and Astronautics, Nanjing, China. Additionally, I serve as a visiting scholar at the Singapore University of Technology and Design (SUTD), where I am under the guidance of Prof. Tony Q.S. Quek. I have published over 15 refereed journal papers and over 10 Chinese patents in the field of signal processing. In particular, my research interests include statistical signal processing, DOA estimating, source localization and intelligent reflecting surface.
+I obtained my B.S. degree in Electronic Information Science and Technology from Jiangsu University of Science and Technology, Zhenjiang, China, in 2021. Currently, I am pursuing a Ph.D. in Electronic and Communication Engineering at Nanjing University of Aeronautics and Astronautics, Nanjing, China. Additionally, I serve as a visiting scholar at the Singapore University of Technology and Design (SUTD), where I am under the guidance of Prof. Tony Q.S. Quek. I have published over 20 refereed journal papers and over 10 Chinese patents in the field of signal processing. In particular, my research interests include statistical signal processing, DOA estimating, source localization and intelligent reflecting surface.
 
 
 # 🔥 News
