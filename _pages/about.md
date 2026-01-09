@@ -25,7 +25,7 @@ I obtained my B.S. degree in Electronic Information Science and Technology from 
 - *2025*: &nbsp;🎉🎉 Serving as the reviewer of EUSIPCO 2025. 
 - *2024.07*: &nbsp;🎉🎉 Attending IEEE International Symposium on Computer Technology and Information Science (ISCTIS), Xi’an, China. 
 
-# 📝 Selected Publications 
+# 📝 Publications 
 - **X. Shi**, X. Zhang, J. Li, M. Sun, Tony Q.S. Quek and So Hing Cheung, ["Direct localization of high-order QAM sources with multiple anchors: Dual atomic norm minimization framework,"](https://ieeexplore.ieee.org/document/11139114) **IEEE Transactions on Wireless Communications**, vol. 25, pp. 2843-2859, 2026.
 - **X. Shi**, X. Zhang, Tony Q.S. Quek and So Hing Cheung, ["Semi-passive IRS-aided DOA estimation: Weighted ESPRIT approach,"](https://ieeexplore.ieee.org/document/11003989) **IEEE Wireless Communications Letters**, vol. 14, no. 8, pp. 2366-2370, 2025.
 - **X. Shi**, X. Zhang, Y. Sun and Y. Qian, ["Direct Position Determination of Non-Circular Signals for Distributed Antenna Arrays: Optimal Weight and Polynomial Rooting Approach,"](https://ieeexplore.ieee.org/abstract/document/10349909) **IEEE Signal Processing Letters**, vol. 31, pp. 256-260, 2024.
