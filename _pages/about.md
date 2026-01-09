@@ -31,7 +31,7 @@ I obtained my B.S. degree in Electronic Information Science and Technology from 
 - **X. Shi**, X. Zhang, Y. Sun and Y. Qian, ["Direct Position Determination of Non-Circular Signals for Distributed Antenna Arrays: Optimal Weight and Polynomial Rooting Approach,"](https://ieeexplore.ieee.org/abstract/document/10349909) **IEEE Signal Processing Letters**, vol. 31, pp. 256-260, 2024.
 - **X. Shi**, X. Zhang, Y. Sun, et al, ["Multiple Sources Localization With 2D-DFT Under Distributed Massive Antenna Arrays,"](https://www.sciencedirect.com/science/article/pii/S0165168423004140) **Signal Processing**, vol. 217, pp. 109340, 2024.
 - **X. Shi**, X. Zhang, Y. Qian, et al, [“Closed-Form Rectilinear Emitters Localization With Multiple Sensor Arrays: Phase Alignment and Optimal Weighted Least-Square Method,”](https://ieeexplore.ieee.org/abstract/document/10048681) **IEEE Sensors Journal**, vol. 23, no. 7, pp. 7266-7278, 2023.
-- Q. Yuan, **X. Shi**<sup>*</sup>, X. Zhang and F. Zhou, et al, [“Large-scale semi-passive RIS-assisted off-grid DOA estimation: A quadratic interpolation method,”](https://ieeexplore.ieee.org/document/11304213) **IEEE Sensors Journal**, Early Access, 2026.
+- Q. Yuan, **X. Shi**<sup>*</sup>, X. Zhang and F. Zhou, [“Large-scale semi-passive RIS-assisted off-grid DOA estimation: A quadratic interpolation method,”](https://ieeexplore.ieee.org/document/11304213) **IEEE Sensors Journal**, Early Access, 2026.
 
 # 🎖 Honors and Awards
 - *2020.12* National Scholarship. 
